@@ -69,7 +69,8 @@ This technical background strengthens my analytical thinking and structured prob
 - Power Query
 - ETL Processes
 - Python
-- Pandas, NumPy (Learning)
+- Pandas, NumPy
+
 
 ### 🔧 Other Tools
 - Git & GitHub
@@ -88,6 +89,7 @@ Medi-Caps University (CGPA: 7.5)
 - Power BI
 - SQL
 - Python for Data Analysis
+- Machine Learning
 
 📘 Full Stack Development – UpGrad  
 (MERN Stack)
